@@ -8,6 +8,18 @@ I exist where light forgets to reach — in the abyss between presence and obliv
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0a0f1f,100:00334d&text=Kalidas&fontColor=9fd8ff&animation=fadeIn&fontSize=65" />
+
+</div>
+
+<div align="center" style="margin-top:-20px;">
+
+<img src="https://readme-typing-svg.herokuapp.com?duration=3500&color=5CC8FF&center=true&vCenter=true&width=500&lines=In+the+abyss+I+observe.;In+silence+I+learn.;In+curiosity+I+exist.;Ocean.+Gothic.+Infinity." />
+
+</div> **Kalidas — Curiosity in Code, Nature & the Infinite**
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5CFF,100:00C2FF&height=250&section=header&text=Kalidas&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 
 **B.Tech CSE (AI)** student • Anime enjoyer • Ocean & nature soul 🌊
@@ -19,11 +31,10 @@ Exploring science, intelligence, and the infinite.
 
 ## 🌟 **About Me**
 
-* 🌊 Deep connection with **oceans**, nature, silence & minimal aesthetics
-* 🎐 Anime-inspired calm, beauty & simplicity guide my creative style
-* 🧠 I love understanding how things work — from molecules to galaxies
-* 💻 I explore tech, science, math, and the unknown with equal passion
-* 🎧 Classical & Carnatic music keep me grounded
+* 🌊 Drawn to **oceans**, deep calm, rain, and the quiet beauty of nature
+* 🏛️ Love for **gothic, ancient, and hill-side architecture** — atmospheric, timeless, mysterious
+* 🎐 Aesthetic shaped by **anime minimalism** and soft, surreal visuals
+* 🎧 Music enthusiast — especially classical, Carnatic, and ambient cinematic tones
 
 ---
 
@@ -71,37 +82,29 @@ Exploring science, intelligence, and the infinite.
 
 ## 🔧 **The Technical Side of Me**
 
-### 🖥️ **Languages**
+I build with intention — tools are just instruments.
 
-* Python
-* Java
-* JavaScript
-* C (learning)
+**Minimal Snapshot:**
 
-### 🔍 **Areas I Actively Work With**
-
-* Machine Learning (foundations, architectures, reasoning)
-* Sensor Integration & Embedded Logic
-* Applied Mathematics (probability, statistics, linear algebra)
-* Frontend Development (HTML, CSS, JS, UI/UX)
-* Chrome Extensions
-* Linux Systems & CLI
-* Backend Development Basics (Django)
-* Graphics & Compute Concepts (Vulkan – beginner)
+* Python, Java, JavaScript
+* ML foundations
+* Sensors & embedded basics
+* Web (HTML/CSS/JS)
+* Linux & CLI
 
 ---
 
 ## 🎨 **Aesthetic & Philosophy**
 
-> **“Slow learning, deep understanding, intentional creation.”**
+> **“Depth over speed. Essence over noise.”**
 
-I like my work to feel:
+I like my world — and my work — to feel:
 
-* 🌊 Ocean-calm
-* 🌫 Minimal & clean
-* 🎐 Anime-inspired visual purity
-* 🧪 Scientifically curious
-* 🔭 Endlessly exploratory
+* 🌊 Oceanic & atmospheric
+* 🏛️ Gothic, ancient, quiet and monumental
+* 🌫 Minimal, clean, structured
+* 🎐 Anime-inspired in spirit, not in excess
+* 🔭 Philosophically curious, scientifically grounded
 
 ---
 
@@ -125,4 +128,10 @@ If you like exploring ideas — from AI to astronomy, from molecules to mathemat
 
 ---
 
-<
+<div align="center">
+
+### 🐚 *Thanks for visiting.*
+
+### *My curiosity is infinite — and this page is only the surface.* 🌊
+
+</div>
