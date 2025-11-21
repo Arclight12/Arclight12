@@ -10,6 +10,26 @@ I exist where light forgets to reach — in the abyss between presence and obliv
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0a0f1f,100:00334d&text=Kalidas&fontColor=9fd8ff&animation=fadeIn&fontSize=65" />
 
+<!-- Anime Silhouette Banner -->
+
+<img src="https://i.imgur.com/0w8Yd8P.png" width="600" style="margin-top:-20px;" />
+
+<!-- Gothic Divider -->
+
+<img src="https://i.imgur.com/Mx9YnRR.png" width="450" />
+
+</div>
+
+<div align="center" style="margin-top:-10px;">
+
+<img src="https://readme-typing-svg.herokuapp.com?duration=3500&color=5CC8FF&center=true&vCenter=true&width=500&lines=In+the+abyss+I+observe.;In+silence+I+learn.;In+curiosity+I+exist.;Ocean.+Gothic.+Infinity." />
+
+</div> **Kalidas — Curiosity in Code, Nature & the Infinite**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0a0f1f,100:00334d&text=Kalidas&fontColor=9fd8ff&animation=fadeIn&fontSize=65" />
+
 </div>
 
 <div align="center" style="margin-top:-20px;">
@@ -20,10 +40,21 @@ I exist where light forgets to reach — in the abyss between presence and obliv
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5CFF,100:00C2FF&height=250&section=header&text=Kalidas&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+---
 
-**B.Tech CSE (AI)** student • Anime enjoyer • Ocean & nature soul 🌊
-Exploring science, intelligence, and the infinite.
+## 🎭 **Anime, Architecture & Music**
+
+<div align="center">
+
+**Anime I vibe with:** <img src="https://img.shields.io/badge/My%20Hero%20Academia-000000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Jujutsu%20Kaisen-111111?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Death%20Note-1f1f1f?style=for-the-badge&logoColor=white" />
+
+**Aesthetic Influences:**
+🕯️ Gothic halls • Arches • Ruins
+🌒 Misty hills • Stone monasteries
+🌊 Ocean horizons • Dark blues & silver tones
+
+**Music:**
+🎧 Carnatic • Classical • Ambient cinematic
 
 </div>
 
