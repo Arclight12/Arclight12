@@ -12,6 +12,13 @@ I exist where light forgets to reach — in the abyss between presence and obliv
 
 </div>
 
+<div align="center" style="margin-top:-20px;">
+
+<img src="https://readme-typing-svg.herokuapp.com?duration=3500&color=5CC8FF&center=true&vCenter=true&width=500&lines=In+the+abyss+I+observe.;In+silence+I+learn.;In+curiosity+I+exist.;Ocean.+Gothic.+Infinity." />
+
+</div> **Kalidas — Curiosity in Code, Nature & the Infinite**
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5CFF,100:00C2FF&height=250&section=header&text=Kalidas&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 
