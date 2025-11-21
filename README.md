@@ -8,7 +8,7 @@ I exist where light forgets to reach — in the abyss between presence and obliv
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0a0f1f,100:00334d&text=ArcZeus&fontColor=9fd8ff&animation=fadeIn&fontSize=65" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0a0f1f,100:00334d&text=Arclight&fontColor=9fd8ff&animation=fadeIn&fontSize=65" />
 
 </div>
 
