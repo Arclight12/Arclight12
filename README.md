@@ -1,131 +1,45 @@
-## Hi there 👋
-
-In the abyss!!
-
-I exist where light forgets to reach — in the abyss between presence and oblivion.
-
-# 🌊✨ **Curiosity in Code, Nature & the Infinite**
+# 🌌 **Arclight**
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0a0f1f,100:00334d&text=Arclight&fontColor=9fd8ff&animation=fadeIn&fontSize=65" />
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0a0f1f,100:00334d&text=Arclight&fontColor=9fd8ff&animation=fadeIn&fontSize=65" alt="Arclight banner"/>
 </div>
 
 <div align="center" style="margin-top:-20px;">
-
-<img src="https://readme-typing-svg.herokuapp.com?duration=3500&color=5CC8FF&center=true&vCenter=true&width=500&lines=In+the+abyss+I+observe.;In+silence+I+learn.;In+curiosity+I+exist.;Ocean.+Gothic.+Infinity." />
-
-**B.Tech CSE (AI)** student • Anime enjoyer • Ocean & nature soul 🌊
-Exploring science, intelligence, and the infinite.
-
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3500&color=5CC8FF&center=true&vCenter=true&width=500&lines=In+the+abyss+I+observe.;In+silence+I+learn.;In+curiosity+I+exist.;Ocean.+Gothic.+Infinity." alt="Animated tagline"/>
 </div>
 
 ---
 
-## 🌟 **About Me**
+## 👋 About Me
 
-* 🌊 Drawn to **oceans**, deep calm, rain, and the quiet beauty of nature
-* 🏛️ Love for **gothic, ancient, and hill-side architecture** — atmospheric, timeless, mysterious
-* 🎐 Aesthetic shaped by **anime minimalism** and soft, surreal visuals
-* 🎧 Music enthusiast — especially classical, Carnatic, and ambient cinematic tones
+|  |  |
+|---|---|
+| 🌊 **Ocean & Nature Soul** | 🏛️ **Gothic & Ancient Architecture Lover** |
+| 🎨 **Anime Minimalist Aesthetic** | 🎧 **Classical, Carnatic & Ambient Music Fan** |
+| 👨‍💻 **B.Tech CSE (AI)** | 🧭 **Curiosity‑Driven Explorer** |
 
----
-
-## 📘 **Domains I Explore (Abstract, Interdisciplinary, Infinite)**
-
-### 🧠 **Psychology & Cognitive Science**
-
-* Thought patterns, consciousness, behaviour
-* Common structures behind how billions think
-
-### 🤖 **Machine Learning & AI Fundamentals**
-
-* Statistical foundations & architectures
-* GRU, CTC intuition & model-building mindset
-* Systems thinking > just running code
-
-### 🌌 **Astronomy & Cosmology**
-
-* Stars, spacetime, dark matter, dark energy
-* The scale of the universe & the feeling of infinity
-
-### ♾️ **Mathematics & Infinity**
-
-* Probability, logic, abstract structures
-* The elegance and purity of mathematical reasoning
-* Infinity, patterns, complexity
-
-### ⚛️ **Nuclear & Particle Physics**
-
-* Fundamental forces
-* Atomic structure, quantum foundations
-
-### 🧬 **Molecular Biology & Biotechnology**
-
-* Proteins, cells, molecular pathways
-* Genetic regulation and cellular systems
-
-### 🧠🧪 **Neurodegenerative Diseases & Regeneration**
-
-* Alzheimer’s, Parkinson’s, ALS
-* Molecular mechanisms
-* Stem-cell and neuro-regenerative concepts
+I’m a student who blends **science, art, and philosophy** into everything I build.
 
 ---
 
-## 🔧 **The Technical Side of Me**
+## 📚 Domains I Explore
 
-I build with intention — tools are just instruments.
-
-**Minimal Snapshot:**
-
-* Python, Java, JavaScript
-* ML foundations
-* Sensors & embedded basics
-* Web (HTML/CSS/JS)
-* Linux & CLI
-
----
-
-## 🎨 **Aesthetic & Philosophy**
-
-> **“Depth over speed. Essence over noise.”**
-
-I like my world — and my work — to feel:
-
-* 🌊 Oceanic & atmospheric
-* 🏛️ Gothic, ancient, quiet and monumental
-* 🌫 Minimal, clean, structured
-* 🎐 Anime-inspired in spirit, not in excess
-* 🔭 Philosophically curious, scientifically grounded
+| Domain | What I Dive Into |
+|--------|-------------------|
+| **🧠 Psychology & Cognitive Science** | Thought patterns, consciousness, universal mental structures |
+| **🤖 Machine Learning & AI** | Foundations, GRU/CTC intuition, systems thinking |
+| **🌌 Astronomy & Cosmology** | Stars, spacetime, dark matter/energy |
+| **♾️ Mathematics & Infinity** | Probability, logic, elegant abstractions |
+| **⚛️ Nuclear & Particle Physics** | Fundamental forces, quantum foundations |
+| **🧬 Molecular Biology & Biotech** | Proteins, cellular pathways, genetics |
+| **🧪 Neuro‑Degeneration & Regeneration** | Alzheimer’s, Parkinson’s, stem‑cell concepts |
 
 ---
 
-## 🛠️ **Badges & Stats**
+## 🛠️ Technical Toolbox
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=kalidas\&label=Visitors\&color=0e75b6\&style=flat)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalidas\&layout=compact\&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalidas\&show_icons=true\&theme=tokyonight)
-
-</div>
-
----
-
-## 📬 **Connect With Me**
-
-If you like exploring ideas — from AI to astronomy, from molecules to mathematics — feel free to connect.
-
----
-
-<div align="center">
-
-### 🐚 *Thanks for visiting.*
-
-### *My curiosity is infinite — and this page is only the surface.* 🌊
-
-</div>
+```text
+Python • Java • JavaScript
+ML Foundations • Sensors & Embedded Basics
+Web: HTML • CSS • JS
+Linux • CLI
