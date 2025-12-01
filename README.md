@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRmZDV5Z3h4dHl2ejhxeWhpOWFjN3JxMmI5aXVpdWpsbnVqamFmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7527pa7qs9kCG78A/giphy.gif" height="60" />
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 <br><br><br>
 
