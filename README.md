@@ -1,43 +1,26 @@
-# 🌊 Arclight
-
-Hi, I’m **Kalidasan** — a student blending **science, art, and philosophy** into everything I build.
-
-## ✨ Interests
-- 🧠 Psychology & Cognitive Science  
-- 🤖 Machine Learning & AI  
-- 🌌 Astronomy & Cosmology  
-- ♾️ Mathematics & Infinity  
-- ⚛️ Nuclear & Particle Physics  
-- 🧬 Molecular Biology & Biotech  
-
-## 🛠️ Toolbox
-**Python • Java • JavaScript • HTML • CSS • Linux • CLI**
-
-## 🎨 Philosophy
-> *Depth over speed. Essence over noise.*
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Arclight12&label=Visitors&color=0e75b6&style=flat" />
+<img src="https://github.com/Arclight12/Arclight12/assets/PLACEHOLDER" width="25%" align="right" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=1E90FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+there.;I'm+Kalidasan%2C+Arclight+%E2%9C%A9" width="70%" />
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Arclight12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<br><br>
 
-<br/>
+<pre>
+    🌊 B.Tech CSE (AI) • Curious mind wandering through science & art  
+    🧠 Psychology • ML & AI • Astronomy • Infinity • Physics • Biology  
+    🎨 Art • 🎮 Games • 🎵 Music • 📚 Quiet spaces • 🌌 Oceans & nature  
+    ✨ Calm soul • Deep thinker • Lover of silence and vastness
+</pre>
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arclight12&layout=compact&theme=tokyonight&hide_border=true" />
+<br><br>
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+
+<br><br><br>
+
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/)
+[![](https://img.shields.io/badge/instagram-ff66ab)](https://instagram.com/)
+[![](https://img.shields.io/badge/github-Arclight12-000000)](https://github.com/Arclight12)
 
 </div>
-
----
-
-## 📬 Connect  
-Curious about **AI, astronomy, biology, or infinity**? Let’s connect.
