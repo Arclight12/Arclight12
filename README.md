@@ -14,7 +14,7 @@
 
 <br><br>
 
- <img src="https://github.com/Arclight12/Arclight12/blob/main/one.gif" height="40" />
+ <img src="https://github.com/Arclight12/Arclight12/blob/main/one.gif"  />
 
 <br><br><br>
 
