@@ -20,13 +20,17 @@ Python • Java • JavaScript • HTML • CSS • Linux • CLI
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kalidas&label=Visitors&color=0e75b6&style=flat)
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=Arclight12&label=Visitors&color=0e75b6&style=flat" alt="Profile Views"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalidas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Arclight12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalidas&layout=compact&theme=tokyonight&hide_border=true)
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arclight12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
+
 
 
 ## 📬 Connect
