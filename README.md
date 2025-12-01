@@ -17,4 +17,8 @@ Python • Java • JavaScript • HTML • CSS • Linux • CLI
 > *Depth over speed. Essence over noise.*
 
 ## 📊 Stats
-![GitHub Stats](https
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalidas&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalidas&layout=compact&theme=tokyonight)
+
+## 📬 Connect
+Curious about **AI, astronomy, biology, or infinity**? Let’s connect.
