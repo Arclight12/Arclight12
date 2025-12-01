@@ -21,4 +21,4 @@
 🌌 <i>“Depth over speed. Essence over noise.”</i> 🌊  
 <i>Always learning. Always wandering.</i>
 
-</div> can you organise this a bit. 
+</div>  
