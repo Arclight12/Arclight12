@@ -1,27 +1,20 @@
 <div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
 
-<!-- Right-side image -->
-<img src="https://github.com/Arclight12/Arclight12/blob/main/stargazing_boy.png" height="260" align="right" />
-
-<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=1E90FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+there.;I'm+Arclight+%E2%9C%A9" width="70%" />
 
 <br><br>
 
-<!-- Aesthetic info card -->
-<div style="background-color:#111827; padding:20px; border-radius:12px; width:75%; text-align:left;">
-
-<b>🌊 B.Tech CSE (AI)</b> • Curious mind wandering through science & art  
-<b>🧠 Psychology</b> • ML & AI • Astronomy • Infinity • Physics • Biology  
-<b>🎨 Art</b> • 🎮 Games • 🎵 Music • 📚 Quiet spaces • 🪼 Oceans & nature  
-<b>✨ Calm soul</b> • Deep thinker • Lover of silence and vastness  
-
-</div>
+<pre>
+    🌊 B.Tech CSE (AI) • Curious mind wandering through science & art  
+    🧠 Psychology • ML & AI • Astronomy • Infinity • Physics • Biology  
+    🎨 Art • 🎮 Games • 🎵 Music • 📚 Quiet spaces • 🌌 Oceans & nature  
+    ✨ Calm soul • Deep thinker • Lover of silence and vastness
+</pre>
 
 <br><br>
 
-<!-- Fox GIF -->
-<img src="https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif" height="55" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRmZDV5Z3h4dHl2ejhxeWhpOWFjN3JxMmI5aXVpdWpsbnVqamFmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7527pa7qs9kCG78A/giphy.gif" height="60" />
 
 <br><br><br>
 
